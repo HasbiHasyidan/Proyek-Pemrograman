@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 # Path file data
-DATA_PATH = '/home/hasbi/Proyek-Pemrograman/Proyek/airflow/data/processed_data.csv'
+DATA_PATH = '/home/alrahma/Proyek-Pemrograman/airflow/data/processed_data.csv'
 
 # Fungsi untuk memuat data
 def load_data(path):
@@ -73,23 +73,36 @@ with st.sidebar.form('input_form'):
 st.write("### **Data Transaksi Harian**")
 st.dataframe(df)
 
-# Grafik Pemasukan
 st.write("### Grafik Pemasukan Harian")
 fig1, ax1 = plt.subplots(figsize=(10, 5))
-ax1.plot(df['Tanggal'], df['Uang Masuk'], label='Uang Masuk', marker='o', color='green')
-ax1.set_title('Grafik Pemasukan Harian')
-ax1.set_xlabel('Tanggal')
-ax1.set_ylabel('Jumlah Uang Masuk')
+sns.lineplot(data=df, x='Tanggal', y='Uang Masuk', ax=ax1, marker='o', color='green', label='Uang Masuk', linewidth=2)
+ax1.fill_between(df['Tanggal'], df['Uang Masuk'], color='green', alpha=0.2)  # Area bawah grafik
+ax1.set_title('Grafik Pemasukan Harian', fontsize=16, weight='bold')
+ax1.set_xlabel('Tanggal', fontsize=12)
+ax1.set_ylabel('Jumlah Uang Masuk', fontsize=12)
+ax1.grid(alpha=0.3, linestyle='--')
 ax1.legend()
 st.pyplot(fig1)
 
 # Grafik Pengeluaran
 st.write("### Grafik Pengeluaran Harian")
 fig2, ax2 = plt.subplots(figsize=(10, 5))
-ax2.plot(df['Tanggal'], df['Uang Keluar'], label='Uang Keluar', marker='o', color='red')
-ax2.set_title('Grafik Pengeluaran Harian')
-ax2.set_xlabel('Tanggal')
-ax2.set_ylabel('Jumlah Uang Keluar')
+sns.lineplot(data=df, x='Tanggal', y='Uang Keluar', ax=ax2, marker='o', color='blue', label='Uang Keluar', linewidth=2)
+ax2.fill_between(df['Tanggal'], df['Uang Keluar'], color='blue', alpha=0.2)  # Area bawah grafik
+ax2.set_title('Grafik Pengeluaran Harian', fontsize=16, weight='bold')
+ax2.set_xlabel('Tanggal', fontsize=12)
+ax2.set_ylabel('Jumlah Uang Keluar', fontsize=12)
+ax2.grid(alpha=0.3, linestyle='--')
 ax2.legend()
 st.pyplot(fig2)
+
+# Menambahkan copyright di bagian bawah
+st.markdown(
+    """
+    <div style="text-align: center; margin-top: 50px; font-size: 12px; color: gray;">
+        © 2024 Dashboard Keuangan Harian. All rights reserved.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
