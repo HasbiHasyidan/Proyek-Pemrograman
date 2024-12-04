@@ -1,0 +1,364 @@
+[2024-12-03T20:46:46.747+0700] {processor.py:186} INFO - Started process (PID=1202) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:46:46.748+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T20:46:46.752+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:46:46.751+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:46:46.763+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:46:46.773+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:46:46.773+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:46:46.786+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:46:46.785+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T20:46:46.807+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2024-12-03T20:57:21.196+0700] {processor.py:186} INFO - Started process (PID=1617) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:57:21.197+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T20:57:21.198+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:57:21.198+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:57:21.206+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:57:21.301+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:57:21.301+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:57:21.313+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:57:21.313+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T20:57:21.341+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.149 seconds
+[2024-12-03T20:58:19.962+0700] {processor.py:186} INFO - Started process (PID=1674) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:58:19.966+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T20:58:19.967+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:19.967+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:58:19.973+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:58:19.985+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:19.985+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:58:19.993+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:19.993+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T20:58:20.010+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2024-12-03T20:59:14.816+0700] {processor.py:186} INFO - Started process (PID=1729) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:59:14.820+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T20:59:14.821+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:14.821+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:59:14.827+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T20:59:14.839+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:14.839+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:59:14.848+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:14.848+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T20:59:14.865+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2024-12-03T21:00:02.901+0700] {processor.py:186} INFO - Started process (PID=1779) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:00:02.902+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:00:02.903+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:02.903+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:00:02.910+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:00:02.923+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:02.923+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:00:02.932+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:02.932+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:00:02.952+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2024-12-03T21:00:54.309+0700] {processor.py:186} INFO - Started process (PID=1833) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:00:54.310+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:00:54.312+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:54.311+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:00:54.318+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:00:54.331+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:54.331+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:00:54.343+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:54.343+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:00:54.362+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2024-12-03T21:04:51.883+0700] {processor.py:186} INFO - Started process (PID=1993) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:04:51.884+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:04:51.886+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:04:51.886+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:04:51.892+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:04:51.909+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:04:51.909+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:04:51.917+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:04:51.917+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:04:51.933+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2024-12-03T21:05:46.933+0700] {processor.py:186} INFO - Started process (PID=2121) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:05:46.934+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:05:46.935+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:46.935+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:05:46.942+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:05:46.961+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:46.961+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:05:46.970+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:46.970+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:05:46.986+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2024-12-03T21:05:47.099+0700] {processor.py:186} INFO - Started process (PID=2122) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:05:47.099+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:05:47.101+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:47.101+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:05:47.108+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:05:47.120+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:47.120+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:05:47.128+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:47.128+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:05:47.145+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2024-12-03T21:06:37.545+0700] {processor.py:186} INFO - Started process (PID=2226) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:06:37.548+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:06:37.551+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:37.551+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:06:37.559+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:06:37.574+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:37.573+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:37.584+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:37.584+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:06:37.602+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2024-12-03T21:06:43.285+0700] {processor.py:186} INFO - Started process (PID=2238) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:06:43.286+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:06:43.289+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:43.288+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:06:43.300+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:06:43.324+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:43.323+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:43.339+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:43.338+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:06:43.367+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.086 seconds
+[2024-12-03T21:07:30.610+0700] {processor.py:186} INFO - Started process (PID=2432) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:07:30.617+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:07:30.621+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:30.620+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:07:30.637+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:07:30.670+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:30.670+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:30.688+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:30.688+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:07:30.712+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.108 seconds
+[2024-12-03T21:07:32.167+0700] {processor.py:186} INFO - Started process (PID=2435) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:07:32.168+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:07:32.170+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:32.170+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:07:32.181+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:07:32.198+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:32.198+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:32.216+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:32.215+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:07:32.247+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.084 seconds
+[2024-12-03T21:08:21.172+0700] {processor.py:186} INFO - Started process (PID=2536) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:08:21.180+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:08:21.182+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:21.182+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:08:21.189+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:08:21.202+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:21.201+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:21.210+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:21.210+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:08:21.228+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2024-12-03T21:08:22.510+0700] {processor.py:186} INFO - Started process (PID=2539) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:08:22.511+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:08:22.512+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:22.512+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:08:22.519+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:08:22.531+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:22.531+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:22.540+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:22.540+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:08:22.557+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2024-12-03T21:09:13.835+0700] {processor.py:186} INFO - Started process (PID=2643) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:09:13.838+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:09:13.840+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:13.840+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:09:13.846+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:09:13.857+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:13.857+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:13.865+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:13.865+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:09:13.883+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2024-12-03T21:09:16.519+0700] {processor.py:186} INFO - Started process (PID=2649) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:09:16.520+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:09:16.521+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:16.521+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:09:16.527+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:09:16.539+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:16.538+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:16.548+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:16.548+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:09:16.566+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2024-12-03T21:10:04.221+0700] {processor.py:186} INFO - Started process (PID=2748) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:04.223+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:10:04.224+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:04.224+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:04.233+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:04.245+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:04.245+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:04.257+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:04.257+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:10:04.280+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2024-12-03T21:10:05.614+0700] {processor.py:186} INFO - Started process (PID=2751) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:05.614+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:10:05.616+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:05.616+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:05.623+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:05.635+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:05.635+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:05.645+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:05.645+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:10:05.663+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2024-12-03T21:10:54.684+0700] {processor.py:186} INFO - Started process (PID=2852) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:54.686+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:10:54.690+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:54.689+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:54.700+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:54.717+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:54.717+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:54.729+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:54.729+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:10:54.750+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2024-12-03T21:10:57.225+0700] {processor.py:186} INFO - Started process (PID=2857) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:57.226+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:10:57.228+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:57.228+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:57.236+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:10:57.250+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:57.249+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:57.260+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:57.260+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:10:57.289+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2024-12-03T21:11:48.962+0700] {processor.py:186} INFO - Started process (PID=2964) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:11:48.963+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:11:48.965+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:48.964+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:11:48.972+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:11:48.983+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:48.983+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:48.993+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:48.992+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:11:49.009+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2024-12-03T21:11:50.346+0700] {processor.py:186} INFO - Started process (PID=2970) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:11:50.346+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:11:50.348+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:50.347+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:11:50.354+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:11:50.365+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:50.365+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:50.373+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:50.373+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:11:50.389+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2024-12-03T21:12:39.742+0700] {processor.py:186} INFO - Started process (PID=3092) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:12:39.743+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:12:39.745+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:39.744+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:12:39.751+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:12:39.763+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:39.762+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:39.771+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:39.771+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:12:39.788+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2024-12-03T21:12:46.134+0700] {processor.py:186} INFO - Started process (PID=3108) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:12:46.135+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:12:46.136+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:46.136+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:12:46.143+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:12:46.154+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:46.154+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:46.163+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:46.163+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:12:46.179+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2024-12-03T21:13:30.443+0700] {processor.py:186} INFO - Started process (PID=3204) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:13:30.444+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:13:30.447+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:30.447+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:13:30.458+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:13:30.475+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:30.475+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:30.492+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:30.492+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:13:30.516+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2024-12-03T21:13:38.065+0700] {processor.py:186} INFO - Started process (PID=3219) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:13:38.066+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:13:38.068+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:38.067+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:13:38.075+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:13:38.088+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:38.088+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:38.098+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:38.098+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:13:38.116+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2024-12-03T21:14:19.993+0700] {processor.py:186} INFO - Started process (PID=3309) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:14:19.995+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:14:19.996+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:19.996+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:14:20.002+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:14:20.014+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:20.013+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:20.022+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:20.021+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:14:20.039+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2024-12-03T21:14:27.754+0700] {processor.py:186} INFO - Started process (PID=3323) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:14:27.756+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:14:27.757+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:27.757+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:14:27.763+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:14:27.774+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:27.774+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:27.783+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:27.783+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:14:27.800+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2024-12-03T21:15:12.954+0700] {processor.py:186} INFO - Started process (PID=3419) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:15:12.958+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:15:12.959+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:12.959+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:15:12.966+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:15:12.977+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:12.977+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:12.989+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:12.988+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:15:13.005+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2024-12-03T21:15:18.375+0700] {processor.py:186} INFO - Started process (PID=3430) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:15:18.376+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:15:18.378+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:18.378+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:15:18.387+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:15:18.405+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:18.405+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:18.419+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:18.419+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:15:18.445+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2024-12-03T21:16:03.660+0700] {processor.py:186} INFO - Started process (PID=3532) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:03.662+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:16:03.664+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:03.663+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:03.671+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:03.684+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:03.684+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:03.696+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:03.696+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:16:03.723+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2024-12-03T21:16:09.026+0700] {processor.py:186} INFO - Started process (PID=3542) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:09.027+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:16:09.030+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:09.030+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:09.039+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:09.055+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:09.055+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:09.066+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:09.066+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:16:09.089+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2024-12-03T21:16:57.881+0700] {processor.py:186} INFO - Started process (PID=3670) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:57.883+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:16:57.885+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:57.885+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:57.896+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:57.912+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:57.912+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:57.922+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:57.921+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:16:57.939+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2024-12-03T21:16:59.799+0700] {processor.py:186} INFO - Started process (PID=3674) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:59.799+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:16:59.801+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:59.801+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:59.809+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:16:59.822+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:59.821+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:59.832+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:59.832+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:16:59.850+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2024-12-03T21:17:50.042+0700] {processor.py:186} INFO - Started process (PID=3789) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:17:50.044+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:17:50.045+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:50.045+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:17:50.055+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:17:50.068+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:50.068+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:50.080+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:50.080+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:17:50.097+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2024-12-03T21:17:51.097+0700] {processor.py:186} INFO - Started process (PID=3792) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:17:51.097+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:17:51.099+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:51.098+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:17:51.105+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:17:51.116+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:51.116+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:51.124+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:51.124+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:17:51.141+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2024-12-03T21:18:47.069+0700] {processor.py:186} INFO - Started process (PID=3926) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:18:47.071+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:18:47.075+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:47.074+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:18:47.094+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:18:47.770+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:47.769+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:18:47.807+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:47.806+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:18:47.850+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.793 seconds
+[2024-12-03T21:19:47.597+0700] {processor.py:186} INFO - Started process (PID=3988) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:19:47.601+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:19:47.603+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:47.602+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:19:47.609+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:19:47.621+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:47.620+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:19:47.629+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:47.629+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:19:47.646+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2024-12-03T21:20:49.620+0700] {processor.py:186} INFO - Started process (PID=4091) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:20:49.622+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:20:49.624+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:49.623+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:20:49.631+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:20:49.645+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:49.645+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:20:49.656+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:49.655+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:20:49.675+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2024-12-03T21:21:25.693+0700] {processor.py:186} INFO - Started process (PID=4131) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:21:25.694+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:21:25.695+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:25.695+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:21:25.702+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:21:25.713+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:25.713+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:21:25.722+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:25.722+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:21:25.739+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2024-12-03T21:22:20.211+0700] {processor.py:186} INFO - Started process (PID=4225) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:22:20.212+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:22:20.213+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:20.213+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:22:20.221+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:22:20.234+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:20.233+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:22:20.243+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:20.243+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:22:20.261+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2024-12-03T21:23:11.674+0700] {processor.py:186} INFO - Started process (PID=4279) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:23:11.676+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:23:11.678+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:11.677+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:23:11.685+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:23:11.698+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:11.698+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:23:11.709+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:11.709+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:23:11.731+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2024-12-03T21:24:06.080+0700] {processor.py:186} INFO - Started process (PID=4352) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:24:06.084+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:24:06.086+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:06.085+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:24:06.093+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:24:06.105+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:06.105+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:24:06.115+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:06.115+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:24:06.134+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2024-12-03T21:24:58.904+0700] {processor.py:186} INFO - Started process (PID=4412) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:24:58.908+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:24:58.910+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:58.909+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:24:58.916+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:24:58.928+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:58.928+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:24:58.937+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:58.937+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:24:58.955+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2024-12-03T21:25:57.141+0700] {processor.py:186} INFO - Started process (PID=4496) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:25:57.145+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:25:57.147+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:57.146+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:25:57.155+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:25:57.168+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:57.167+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:25:57.177+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:57.176+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:25:57.195+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2024-12-03T21:26:51.278+0700] {processor.py:186} INFO - Started process (PID=4554) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:26:51.280+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:26:51.281+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:51.281+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:26:51.288+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:26:51.301+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:51.301+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:26:51.310+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:51.310+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:26:51.328+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2024-12-03T21:27:44.289+0700] {processor.py:186} INFO - Started process (PID=4625) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:27:44.291+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:27:44.292+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:44.292+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:27:44.299+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:27:44.312+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:44.312+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:27:44.322+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:44.322+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:27:44.340+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2024-12-03T21:28:39.830+0700] {processor.py:186} INFO - Started process (PID=4687) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:28:39.833+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:28:39.835+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:39.835+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:28:39.842+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:28:39.856+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:39.855+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:28:39.864+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:39.864+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:28:39.883+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2024-12-03T21:29:33.459+0700] {processor.py:186} INFO - Started process (PID=4822) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:29:33.459+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:29:33.462+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:33.461+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:29:33.475+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:29:33.499+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:33.498+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:29:33.513+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:33.512+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:29:33.544+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.090 seconds
+[2024-12-03T21:30:26.788+0700] {processor.py:186} INFO - Started process (PID=4881) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:30:26.795+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:30:26.797+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:26.797+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:30:26.803+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:30:26.815+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:26.815+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:30:26.823+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:26.823+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:30:26.840+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2024-12-03T21:31:21.691+0700] {processor.py:186} INFO - Started process (PID=4955) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:31:21.695+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-03T21:31:21.696+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:31:21.696+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:31:21.703+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-03T21:31:21.714+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:31:21.714+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:31:21.723+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:31:21.723+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-03T21:31:21.740+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds

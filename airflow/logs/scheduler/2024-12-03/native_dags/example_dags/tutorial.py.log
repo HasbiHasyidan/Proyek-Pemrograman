@@ -1,0 +1,315 @@
+[2024-12-03T20:58:02.802+0700] {processor.py:186} INFO - Started process (PID=1655) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:58:02.802+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T20:58:02.804+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:02.803+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:58:02.809+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:58:02.877+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:02.877+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:58:02.889+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:02.889+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T20:58:02.909+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.111 seconds
+[2024-12-03T20:58:58.362+0700] {processor.py:186} INFO - Started process (PID=1712) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:58:58.363+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T20:58:58.365+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:58.365+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:58:58.371+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:58:58.381+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:58.381+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:58:58.394+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:58.394+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T20:58:58.410+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-12-03T20:59:52.616+0700] {processor.py:186} INFO - Started process (PID=1769) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:59:52.618+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T20:59:52.620+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:52.619+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:59:52.627+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T20:59:52.641+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:52.641+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:59:52.657+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:52.657+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T20:59:52.678+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2024-12-03T21:00:46.309+0700] {processor.py:186} INFO - Started process (PID=1824) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:00:46.312+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:00:46.314+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:46.314+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:00:46.322+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:00:46.334+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:46.334+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:00:46.347+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:46.347+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:00:46.363+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.059 seconds
+[2024-12-03T21:05:27.753+0700] {processor.py:186} INFO - Started process (PID=2037) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:05:27.754+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:05:27.755+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:27.755+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:05:27.761+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:05:27.773+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:27.773+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:05:27.787+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:27.787+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:05:27.804+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2024-12-03T21:06:23.248+0700] {processor.py:186} INFO - Started process (PID=2197) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:06:23.250+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:06:23.252+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:23.251+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:06:23.259+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:06:23.275+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:23.274+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:23.292+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:23.292+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:06:23.314+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds
+[2024-12-03T21:06:24.119+0700] {processor.py:186} INFO - Started process (PID=2199) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:06:24.119+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:06:24.121+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:24.121+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:06:24.127+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:06:24.143+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:24.143+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:24.161+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:24.160+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:06:24.177+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2024-12-03T21:07:19.099+0700] {processor.py:186} INFO - Started process (PID=2407) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:07:19.101+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:07:19.103+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:19.102+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:07:19.109+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:07:19.118+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:19.118+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:19.132+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:19.131+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:07:19.148+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-12-03T21:07:19.636+0700] {processor.py:186} INFO - Started process (PID=2408) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:07:19.637+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:07:19.639+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:19.638+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:07:19.644+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:07:19.654+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:19.654+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:19.666+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:19.666+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:07:19.682+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.050 seconds
+[2024-12-03T21:08:11.234+0700] {processor.py:186} INFO - Started process (PID=2516) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:08:11.236+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:08:11.238+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:11.237+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:08:11.245+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:08:11.261+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:11.261+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:11.279+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:11.279+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:08:11.301+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2024-12-03T21:08:13.581+0700] {processor.py:186} INFO - Started process (PID=2520) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:08:13.582+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:08:13.583+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:13.583+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:08:13.591+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:08:13.603+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:13.603+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:13.618+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:13.618+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:08:13.638+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2024-12-03T21:09:05.259+0700] {processor.py:186} INFO - Started process (PID=2624) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:05.263+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:09:05.264+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:05.264+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:05.270+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:05.281+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:05.281+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:05.294+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:05.294+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:09:05.311+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2024-12-03T21:09:05.360+0700] {processor.py:186} INFO - Started process (PID=2625) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:05.360+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:09:05.362+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:05.361+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:05.368+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:05.378+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:05.378+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:05.392+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:05.392+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:09:05.408+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-12-03T21:09:53.934+0700] {processor.py:186} INFO - Started process (PID=2727) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:53.938+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:09:53.940+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:53.940+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:53.949+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:53.963+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:53.963+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:53.986+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:53.985+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:09:54.014+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2024-12-03T21:09:56.287+0700] {processor.py:186} INFO - Started process (PID=2733) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:56.288+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:09:56.289+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:56.289+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:56.296+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:09:56.307+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:56.307+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:56.322+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:56.322+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:09:56.338+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2024-12-03T21:10:48.782+0700] {processor.py:186} INFO - Started process (PID=2838) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:10:48.783+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:10:48.785+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:48.785+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:10:48.792+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:10:48.805+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:48.804+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:48.825+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:48.824+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:10:48.849+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2024-12-03T21:10:49.374+0700] {processor.py:186} INFO - Started process (PID=2840) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:10:49.375+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:10:49.379+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:49.378+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:10:49.390+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:10:49.412+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:49.412+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:49.444+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:49.444+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:10:49.482+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.116 seconds
+[2024-12-03T21:11:41.135+0700] {processor.py:186} INFO - Started process (PID=2945) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:11:41.136+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:11:41.138+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:41.137+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:11:41.144+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:11:41.156+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:41.156+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:41.171+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:41.170+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:11:41.189+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2024-12-03T21:11:43.325+0700] {processor.py:186} INFO - Started process (PID=2948) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:11:43.325+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:11:43.327+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:43.327+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:11:43.334+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:11:43.345+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:43.345+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:43.359+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:43.359+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:11:43.376+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2024-12-03T21:12:37.171+0700] {processor.py:186} INFO - Started process (PID=3087) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:12:37.173+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:12:37.175+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:37.175+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:12:37.181+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:12:37.191+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:37.190+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:37.204+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:37.204+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:12:37.221+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2024-12-03T21:12:55.781+0700] {processor.py:186} INFO - Started process (PID=3135) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:12:55.782+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:12:55.784+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:55.784+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:12:55.794+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:12:55.810+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:55.810+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:55.832+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:55.832+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:12:55.857+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2024-12-03T21:13:31.544+0700] {processor.py:186} INFO - Started process (PID=3205) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:13:31.545+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:13:31.547+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:31.547+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:13:31.554+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:13:31.570+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:31.569+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:31.592+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:31.592+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:13:31.616+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2024-12-03T21:13:46.546+0700] {processor.py:186} INFO - Started process (PID=3239) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:13:46.547+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:13:46.548+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:46.548+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:13:46.555+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:13:46.566+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:46.566+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:46.582+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:46.582+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:13:46.600+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2024-12-03T21:14:38.250+0700] {processor.py:186} INFO - Started process (PID=3345) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:14:38.254+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:14:38.256+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:38.255+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:14:38.266+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:14:38.282+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:38.282+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:38.303+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:38.303+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:14:38.323+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2024-12-03T21:14:44.777+0700] {processor.py:186} INFO - Started process (PID=3360) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:14:44.779+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:14:44.780+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:44.780+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:14:44.786+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:14:44.799+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:44.799+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:44.819+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:44.819+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:14:44.836+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2024-12-03T21:15:31.103+0700] {processor.py:186} INFO - Started process (PID=3455) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:15:31.104+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:15:31.107+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:31.106+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:15:31.114+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:15:31.128+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:31.128+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:31.145+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:31.145+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:15:31.170+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2024-12-03T21:15:36.533+0700] {processor.py:186} INFO - Started process (PID=3466) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:15:36.534+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:15:36.535+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:36.535+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:15:36.542+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:15:36.552+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:36.552+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:36.567+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:36.567+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:15:36.589+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2024-12-03T21:16:21.793+0700] {processor.py:186} INFO - Started process (PID=3568) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:16:21.795+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:16:21.797+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:21.796+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:16:21.802+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:16:21.813+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:21.812+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:21.826+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:21.825+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:16:21.845+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2024-12-03T21:16:50.045+0700] {processor.py:186} INFO - Started process (PID=3651) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:16:50.046+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:16:50.048+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:50.048+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:16:50.054+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:16:50.064+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:50.064+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:50.077+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:50.077+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:16:50.093+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-12-03T21:17:15.099+0700] {processor.py:186} INFO - Started process (PID=3704) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:17:15.102+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:17:15.104+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:15.104+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:17:15.110+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:17:15.121+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:15.121+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:15.134+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:15.134+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:17:15.153+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2024-12-03T21:17:40.909+0700] {processor.py:186} INFO - Started process (PID=3769) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:17:40.910+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:17:40.912+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:40.912+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:17:40.918+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:17:40.929+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:40.929+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:40.942+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:40.942+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:17:40.958+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-12-03T21:18:08.811+0700] {processor.py:186} INFO - Started process (PID=3831) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:18:08.812+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:18:08.815+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:08.814+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:18:08.823+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:18:08.841+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:08.840+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:18:08.860+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:08.860+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:18:08.885+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2024-12-03T21:19:27.330+0700] {processor.py:186} INFO - Started process (PID=3968) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:19:27.332+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:19:27.333+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:27.333+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:19:27.340+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:19:27.408+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:27.408+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:19:27.421+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:27.421+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:19:27.439+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.113 seconds
+[2024-12-03T21:20:27.239+0700] {processor.py:186} INFO - Started process (PID=4038) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:20:27.240+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:20:27.242+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:27.241+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:20:27.249+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:20:27.265+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:27.264+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:20:27.293+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:27.293+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:20:27.320+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2024-12-03T21:21:34.794+0700] {processor.py:186} INFO - Started process (PID=4143) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:21:34.798+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:21:34.800+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:34.799+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:21:34.806+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:21:34.816+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:34.816+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:21:34.829+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:34.829+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:21:34.847+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2024-12-03T21:22:28.859+0700] {processor.py:186} INFO - Started process (PID=4234) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:22:28.860+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:22:28.862+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:28.862+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:22:28.868+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:22:28.878+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:28.877+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:22:28.891+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:28.890+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:22:28.907+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-12-03T21:23:25.310+0700] {processor.py:186} INFO - Started process (PID=4292) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:23:25.312+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:23:25.314+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:25.313+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:23:25.321+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:23:25.334+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:25.333+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:23:25.350+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:25.350+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:23:25.368+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2024-12-03T21:24:20.216+0700] {processor.py:186} INFO - Started process (PID=4370) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:24:20.217+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:24:20.219+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:20.218+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:24:20.225+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:24:20.236+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:20.236+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:24:20.251+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:20.251+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:24:20.269+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2024-12-03T21:25:13.168+0700] {processor.py:186} INFO - Started process (PID=4432) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:25:13.172+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:25:13.174+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:13.174+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:25:13.181+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:25:13.193+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:13.193+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:25:13.210+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:13.210+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:25:13.231+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2024-12-03T21:26:14.304+0700] {processor.py:186} INFO - Started process (PID=4515) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:26:14.307+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:26:14.309+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:14.309+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:26:14.316+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:26:14.327+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:14.327+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:26:14.342+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:14.342+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:26:14.360+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2024-12-03T21:27:10.992+0700] {processor.py:186} INFO - Started process (PID=4573) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:27:10.993+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:27:10.995+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:10.995+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:27:11.003+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:27:11.015+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:11.015+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:27:11.031+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:11.031+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:27:11.049+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2024-12-03T21:28:03.130+0700] {processor.py:186} INFO - Started process (PID=4644) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:28:03.131+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:28:03.133+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:03.133+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:28:03.141+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:28:03.156+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:03.156+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:28:03.177+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:03.177+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:28:03.200+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2024-12-03T21:28:58.039+0700] {processor.py:186} INFO - Started process (PID=4785) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:28:58.042+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:28:58.044+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:58.043+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:28:58.050+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:28:58.061+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:58.061+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:28:58.076+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:58.076+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:28:58.093+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2024-12-03T21:29:51.767+0700] {processor.py:186} INFO - Started process (PID=4841) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:29:51.768+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:29:51.770+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:51.769+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:29:51.776+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:29:51.789+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:51.789+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:29:51.806+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:51.805+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:29:51.823+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2024-12-03T21:30:45.104+0700] {processor.py:186} INFO - Started process (PID=4900) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:30:45.108+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-03T21:30:45.109+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:45.109+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:30:45.115+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-12-03T21:30:45.126+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:45.126+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:30:45.139+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:45.139+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:30:45.155+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.054 seconds

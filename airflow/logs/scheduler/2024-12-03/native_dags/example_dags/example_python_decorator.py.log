@@ -1,0 +1,368 @@
+[2024-12-03T20:58:00.330+0700] {processor.py:186} INFO - Started process (PID=1653) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:58:00.330+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T20:58:00.331+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:00.331+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:58:00.394+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:00.394+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T20:58:00.396+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:58:00.464+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:00.464+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:58:00.472+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:00.471+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T20:58:00.491+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.165 seconds
+[2024-12-03T20:58:55.979+0700] {processor.py:186} INFO - Started process (PID=1710) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:58:55.980+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T20:58:55.982+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:55.981+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:58:56.046+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:56.046+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T20:58:56.048+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:58:56.060+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:56.059+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:58:56.068+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:56.068+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T20:58:56.085+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.109 seconds
+[2024-12-03T20:59:50.531+0700] {processor.py:186} INFO - Started process (PID=1767) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:59:50.532+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T20:59:50.534+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:50.534+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:59:50.599+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:50.599+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T20:59:50.601+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T20:59:50.612+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:50.612+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:59:50.621+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:50.621+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T20:59:50.637+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.111 seconds
+[2024-12-03T21:00:43.926+0700] {processor.py:186} INFO - Started process (PID=1822) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:00:43.928+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:00:43.929+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:43.929+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:00:43.995+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:43.995+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:00:43.997+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:00:44.009+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:44.009+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:00:44.017+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:44.017+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:00:44.035+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.112 seconds
+[2024-12-03T21:05:25.386+0700] {processor.py:186} INFO - Started process (PID=2035) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:05:25.387+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:05:25.389+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:25.389+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:05:25.450+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:25.450+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:05:25.452+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:05:25.464+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:25.464+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:05:25.473+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:25.473+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:05:25.489+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.107 seconds
+[2024-12-03T21:06:20.752+0700] {processor.py:186} INFO - Started process (PID=2193) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:06:20.754+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:06:20.757+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:20.756+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:06:20.868+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:20.867+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:06:20.872+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:06:20.902+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:20.902+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:20.924+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:20.923+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:06:20.954+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.209 seconds
+[2024-12-03T21:06:22.507+0700] {processor.py:186} INFO - Started process (PID=2196) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:06:22.508+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:06:22.510+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:22.509+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:06:22.583+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:22.583+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:06:22.586+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:06:22.604+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:22.604+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:22.615+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:22.615+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:06:22.646+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.144 seconds
+[2024-12-03T21:07:16.730+0700] {processor.py:186} INFO - Started process (PID=2394) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:07:16.733+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:07:16.735+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:16.735+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:07:16.800+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:16.799+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:07:16.801+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:07:16.812+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:16.812+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:16.820+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:16.820+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:07:16.836+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.111 seconds
+[2024-12-03T21:07:17.634+0700] {processor.py:186} INFO - Started process (PID=2396) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:07:17.635+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:07:17.636+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:17.636+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:07:17.700+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:17.700+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:07:17.702+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:07:17.713+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:17.712+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:17.721+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:17.720+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:07:17.859+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.228 seconds
+[2024-12-03T21:08:09.385+0700] {processor.py:186} INFO - Started process (PID=2512) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:08:09.386+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:08:09.388+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:09.388+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:08:09.466+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:09.465+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:08:09.469+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:08:09.486+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:09.486+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:09.498+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:09.498+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:08:09.522+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.142 seconds
+[2024-12-03T21:08:11.840+0700] {processor.py:186} INFO - Started process (PID=2517) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:08:11.842+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:08:11.845+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:11.844+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:08:11.985+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:11.985+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:08:11.989+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:08:12.011+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:12.010+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:12.029+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:12.029+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:08:12.061+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.228 seconds
+[2024-12-03T21:09:02.979+0700] {processor.py:186} INFO - Started process (PID=2620) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:02.980+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:09:02.982+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:02.982+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:03.055+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:03.055+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:09:03.057+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:03.070+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:03.070+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:03.080+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:03.080+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:09:03.098+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.124 seconds
+[2024-12-03T21:09:03.481+0700] {processor.py:186} INFO - Started process (PID=2621) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:03.481+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:09:03.483+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:03.483+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:03.536+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:03.536+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:09:03.538+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:03.549+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:03.549+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:03.559+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:03.559+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:09:03.580+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.103 seconds
+[2024-12-03T21:09:52.247+0700] {processor.py:186} INFO - Started process (PID=2724) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:52.251+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:09:52.253+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:52.252+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:52.323+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:52.323+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:09:52.325+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:52.340+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:52.340+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:52.351+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:52.351+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:09:52.369+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.129 seconds
+[2024-12-03T21:09:55.216+0700] {processor.py:186} INFO - Started process (PID=2730) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:55.218+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:09:55.219+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:55.219+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:55.290+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:55.289+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:09:55.292+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:09:55.306+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:55.306+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:55.319+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:55.319+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:09:55.346+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.135 seconds
+[2024-12-03T21:10:46.548+0700] {processor.py:186} INFO - Started process (PID=2834) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:10:46.549+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:10:46.551+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:46.551+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:10:46.617+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:46.617+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:10:46.619+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:10:46.630+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:46.629+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:46.638+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:46.638+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:10:46.654+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.110 seconds
+[2024-12-03T21:10:46.972+0700] {processor.py:186} INFO - Started process (PID=2835) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:10:46.972+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:10:46.974+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:46.974+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:10:47.052+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:47.051+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:10:47.054+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:10:47.068+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:47.068+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:47.080+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:47.080+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:10:47.101+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.133 seconds
+[2024-12-03T21:11:39.289+0700] {processor.py:186} INFO - Started process (PID=2941) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:11:39.293+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:11:39.295+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:39.295+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:11:39.366+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:39.366+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:11:39.368+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:11:39.381+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:39.380+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:39.390+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:39.390+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:11:39.408+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.122 seconds
+[2024-12-03T21:11:40.954+0700] {processor.py:186} INFO - Started process (PID=2944) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:11:40.955+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:11:40.957+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:40.957+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:11:41.033+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:41.033+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:11:41.036+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:11:41.051+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:41.051+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:41.061+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:41.061+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:11:41.082+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.132 seconds
+[2024-12-03T21:12:29.722+0700] {processor.py:186} INFO - Started process (PID=3073) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:12:29.724+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:12:29.725+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:29.725+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:12:29.792+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:29.792+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:12:29.794+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:12:29.805+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:29.805+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:29.813+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:29.813+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:12:29.829+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.110 seconds
+[2024-12-03T21:12:34.794+0700] {processor.py:186} INFO - Started process (PID=3083) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:12:34.795+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:12:34.796+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:34.796+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:12:34.861+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:34.861+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:12:34.863+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:12:34.874+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:34.873+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:34.882+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:34.882+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:12:34.898+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.108 seconds
+[2024-12-03T21:13:20.292+0700] {processor.py:186} INFO - Started process (PID=3184) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:13:20.294+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:13:20.296+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:20.295+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:13:20.373+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:20.373+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:13:20.375+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:13:20.386+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:20.386+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:20.395+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:20.395+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:13:20.412+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.123 seconds
+[2024-12-03T21:13:29.053+0700] {processor.py:186} INFO - Started process (PID=3201) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:13:29.055+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:13:29.056+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:29.056+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:13:29.122+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:29.121+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:13:29.124+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:13:29.134+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:29.134+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:29.143+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:29.143+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:13:29.158+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.109 seconds
+[2024-12-03T21:14:12.223+0700] {processor.py:186} INFO - Started process (PID=3292) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:14:12.236+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:14:12.238+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:12.237+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:14:12.307+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:12.307+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:14:12.309+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:14:12.321+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:12.321+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:12.331+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:12.330+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:14:12.349+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.130 seconds
+[2024-12-03T21:14:20.698+0700] {processor.py:186} INFO - Started process (PID=3310) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:14:20.699+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:14:20.700+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:20.700+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:14:20.775+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:20.775+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:14:20.777+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:14:20.790+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:20.790+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:20.800+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:20.800+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:14:20.820+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.126 seconds
+[2024-12-03T21:15:03.112+0700] {processor.py:186} INFO - Started process (PID=3400) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:03.113+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:15:03.114+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:03.114+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:03.183+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:03.183+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:15:03.185+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:03.195+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:03.195+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:03.205+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:03.204+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:15:03.223+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.115 seconds
+[2024-12-03T21:15:34.048+0700] {processor.py:186} INFO - Started process (PID=3461) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:34.050+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:15:34.052+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:34.052+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:34.133+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:34.133+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:15:34.135+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:34.153+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:34.153+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:34.167+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:34.166+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:15:34.191+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.150 seconds
+[2024-12-03T21:15:52.593+0700] {processor.py:186} INFO - Started process (PID=3503) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:52.596+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:15:52.601+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:52.600+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:52.683+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:52.683+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:15:52.685+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:15:52.698+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:52.698+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:52.711+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:52.711+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:15:52.734+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.150 seconds
+[2024-12-03T21:16:25.086+0700] {processor.py:186} INFO - Started process (PID=3575) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:16:25.088+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:16:25.090+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:25.090+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:16:25.168+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:25.167+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:16:25.170+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:16:25.183+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:25.183+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:25.197+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:25.197+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:16:25.216+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.135 seconds
+[2024-12-03T21:16:46.025+0700] {processor.py:186} INFO - Started process (PID=3639) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:16:46.026+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:16:46.028+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:46.028+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:16:46.099+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:46.099+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:16:46.101+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:16:46.112+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:46.112+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:46.121+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:46.121+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:16:46.139+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.117 seconds
+[2024-12-03T21:17:15.772+0700] {processor.py:186} INFO - Started process (PID=3706) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:17:15.773+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:17:15.774+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:15.774+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:17:15.842+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:15.842+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:17:15.844+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:17:15.856+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:15.856+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:15.865+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:15.864+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:17:15.882+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.115 seconds
+[2024-12-03T21:17:40.799+0700] {processor.py:186} INFO - Started process (PID=3768) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:17:40.803+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:17:40.804+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:40.804+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:17:40.872+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:40.872+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:17:40.874+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:17:40.887+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:40.887+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:40.897+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:40.896+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:17:40.915+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.119 seconds
+[2024-12-03T21:18:06.831+0700] {processor.py:186} INFO - Started process (PID=3827) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:18:06.834+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:18:06.836+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:06.835+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:18:06.900+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:06.900+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:18:06.902+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:18:06.913+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:06.912+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:18:06.921+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:06.921+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:18:06.939+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.112 seconds
+[2024-12-03T21:19:25.693+0700] {processor.py:186} INFO - Started process (PID=3966) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:19:25.695+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:19:25.696+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:25.696+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:19:25.767+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:25.767+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:19:25.769+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:19:25.837+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:25.836+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:19:25.845+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:25.845+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:19:25.862+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.172 seconds
+[2024-12-03T21:20:22.419+0700] {processor.py:186} INFO - Started process (PID=4024) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:20:22.421+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:20:22.422+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:22.422+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:20:22.494+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:22.493+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:20:22.496+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:20:22.508+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:22.507+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:20:22.517+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:22.516+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:20:22.534+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.118 seconds
+[2024-12-03T21:21:33.107+0700] {processor.py:186} INFO - Started process (PID=4141) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:21:33.108+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:21:33.110+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:33.109+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:21:33.168+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:33.167+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:21:33.170+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:21:33.181+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:33.181+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:21:33.190+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:33.190+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:21:33.208+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.106 seconds
+[2024-12-03T21:22:27.395+0700] {processor.py:186} INFO - Started process (PID=4232) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:22:27.398+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:22:27.400+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:27.400+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:22:27.462+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:27.462+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:22:27.464+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:22:27.477+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:27.477+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:22:27.487+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:27.487+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:22:27.506+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.114 seconds
+[2024-12-03T21:23:22.934+0700] {processor.py:186} INFO - Started process (PID=4290) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:23:22.938+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:23:22.940+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:22.939+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:23:23.011+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:23.011+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:23:23.013+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:23:23.027+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:23.027+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:23:23.037+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:23.036+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:23:23.054+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.125 seconds
+[2024-12-03T21:24:19.569+0700] {processor.py:186} INFO - Started process (PID=4368) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:24:19.570+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:24:19.572+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:19.572+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:24:19.642+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:19.642+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:24:19.644+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:24:19.656+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:19.655+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:24:19.666+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:19.665+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:24:19.684+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.119 seconds
+[2024-12-03T21:25:10.783+0700] {processor.py:186} INFO - Started process (PID=4430) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:25:10.785+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:25:10.786+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:10.786+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:25:10.857+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:10.857+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:25:10.859+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:25:10.871+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:10.871+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:25:10.880+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:10.880+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:25:10.900+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.121 seconds
+[2024-12-03T21:26:12.850+0700] {processor.py:186} INFO - Started process (PID=4513) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:26:12.854+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:26:12.856+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:12.855+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:26:12.925+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:12.925+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:26:12.927+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:26:12.939+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:12.939+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:26:12.948+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:12.947+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:26:12.966+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.120 seconds
+[2024-12-03T21:27:08.682+0700] {processor.py:186} INFO - Started process (PID=4571) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:27:08.685+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:27:08.688+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:08.687+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:27:08.759+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:08.758+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:27:08.761+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:27:08.774+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:08.774+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:27:08.785+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:08.784+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:27:08.804+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.126 seconds
+[2024-12-03T21:28:01.401+0700] {processor.py:186} INFO - Started process (PID=4642) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:28:01.402+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:28:01.404+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:01.403+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:28:01.474+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:01.474+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:28:01.476+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:28:01.491+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:01.491+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:28:01.501+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:01.501+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:28:01.522+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.125 seconds
+[2024-12-03T21:28:55.938+0700] {processor.py:186} INFO - Started process (PID=4783) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:28:55.939+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:28:55.941+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:55.941+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:28:56.000+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:56.000+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:28:56.002+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:28:56.013+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:56.013+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:28:56.023+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:56.023+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:28:56.041+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.108 seconds
+[2024-12-03T21:29:49.395+0700] {processor.py:186} INFO - Started process (PID=4839) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:29:49.399+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:29:49.401+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:49.400+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:29:49.472+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:49.471+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:29:49.473+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:29:49.485+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:49.485+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:29:49.494+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:49.494+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:29:49.515+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.124 seconds
+[2024-12-03T21:30:43.559+0700] {processor.py:186} INFO - Started process (PID=4898) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:30:43.560+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-03T21:30:43.562+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:43.562+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:30:43.619+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:43.619+0700] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-03T21:30:43.621+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-03T21:30:43.632+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:43.632+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:30:43.641+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:43.640+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-03T21:30:43.656+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_decorator.py took 0.102 seconds

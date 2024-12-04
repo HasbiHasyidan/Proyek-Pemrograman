@@ -1,0 +1,260 @@
+[2024-12-03T20:46:42.710+0700] {processor.py:186} INFO - Started process (PID=1193) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:46:42.711+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T20:46:42.713+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:46:42.712+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:46:42.715+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:46:42.733+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-12-03T20:57:17.503+0700] {processor.py:186} INFO - Started process (PID=1600) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:57:17.505+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T20:57:17.507+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:57:17.507+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:57:17.508+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:57:17.518+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2024-12-03T20:58:18.043+0700] {processor.py:186} INFO - Started process (PID=1671) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:58:18.046+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T20:58:18.048+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:18.048+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:58:18.050+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:58:18.055+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2024-12-03T20:59:11.402+0700] {processor.py:186} INFO - Started process (PID=1726) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:59:11.403+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T20:59:11.405+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:11.405+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:59:11.406+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:59:11.413+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2024-12-03T20:59:59.530+0700] {processor.py:186} INFO - Started process (PID=1776) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:59:59.534+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T20:59:59.535+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:59.535+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:59:59.537+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T20:59:59.544+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:00:51.552+0700] {processor.py:186} INFO - Started process (PID=1830) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:00:51.553+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:00:51.555+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:51.554+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:00:51.556+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:00:51.563+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2024-12-03T21:04:48.446+0700] {processor.py:186} INFO - Started process (PID=1990) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:04:48.448+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:04:48.450+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:04:48.449+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:04:48.451+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:04:48.459+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:05:43.357+0700] {processor.py:186} INFO - Started process (PID=2106) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:05:43.359+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:05:43.361+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:43.361+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:05:43.365+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:05:43.379+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-12-03T21:05:44.312+0700] {processor.py:186} INFO - Started process (PID=2108) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:05:44.315+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:05:44.317+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:44.317+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:05:44.322+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:05:44.337+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2024-12-03T21:06:34.291+0700] {processor.py:186} INFO - Started process (PID=2220) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:06:34.292+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:06:34.294+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:34.294+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:06:34.296+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:06:34.304+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:06:40.693+0700] {processor.py:186} INFO - Started process (PID=2232) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:06:40.695+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:06:40.698+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:40.697+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:06:40.700+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:06:40.708+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2024-12-03T21:07:28.129+0700] {processor.py:186} INFO - Started process (PID=2426) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:07:28.133+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:07:28.135+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:28.134+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:07:28.136+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:07:28.145+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2024-12-03T21:07:29.096+0700] {processor.py:186} INFO - Started process (PID=2428) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:07:29.097+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:07:29.098+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:29.098+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:07:29.101+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:07:29.110+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2024-12-03T21:08:17.585+0700] {processor.py:186} INFO - Started process (PID=2529) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:08:17.586+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:08:17.589+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:17.588+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:08:17.592+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:08:17.604+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2024-12-03T21:08:19.951+0700] {processor.py:186} INFO - Started process (PID=2533) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:08:19.951+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:08:19.954+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:19.954+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:08:19.957+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:08:19.970+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2024-12-03T21:09:10.407+0700] {processor.py:186} INFO - Started process (PID=2636) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:09:10.409+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:09:10.410+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:10.410+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:09:10.412+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:09:10.421+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2024-12-03T21:09:13.115+0700] {processor.py:186} INFO - Started process (PID=2642) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:09:13.116+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:09:13.118+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:13.117+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:09:13.120+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:09:13.128+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:10:01.340+0700] {processor.py:186} INFO - Started process (PID=2743) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:01.452+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:10:01.454+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:01.454+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:01.456+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:01.463+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.127 seconds
+[2024-12-03T21:10:02.097+0700] {processor.py:186} INFO - Started process (PID=2744) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:02.097+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:10:02.099+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:02.099+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:02.100+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:02.107+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2024-12-03T21:10:52.727+0700] {processor.py:186} INFO - Started process (PID=2847) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:52.728+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:10:52.730+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:52.730+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:52.732+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:52.742+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2024-12-03T21:10:54.601+0700] {processor.py:186} INFO - Started process (PID=2851) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:54.602+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:10:54.605+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:54.605+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:54.608+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:10:54.620+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2024-12-03T21:11:46.273+0700] {processor.py:186} INFO - Started process (PID=2956) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:11:46.376+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:11:46.379+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:46.378+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:11:46.381+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:11:46.394+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.125 seconds
+[2024-12-03T21:11:47.544+0700] {processor.py:186} INFO - Started process (PID=2959) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:11:47.545+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:11:47.547+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:47.546+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:11:47.548+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:11:47.555+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2024-12-03T21:12:36.336+0700] {processor.py:186} INFO - Started process (PID=3086) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:12:36.339+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:12:36.341+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:36.341+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:12:36.342+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:12:36.349+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:12:42.710+0700] {processor.py:186} INFO - Started process (PID=3099) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:12:42.711+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:12:42.712+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:42.712+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:12:42.714+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:12:42.721+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2024-12-03T21:13:27.820+0700] {processor.py:186} INFO - Started process (PID=3198) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:13:27.821+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:13:27.822+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:27.822+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:13:27.824+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:13:27.830+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2024-12-03T21:13:35.440+0700] {processor.py:186} INFO - Started process (PID=3214) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:13:35.441+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:13:35.442+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:35.442+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:13:35.444+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:13:35.452+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2024-12-03T21:14:17.690+0700] {processor.py:186} INFO - Started process (PID=3303) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:14:17.691+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:14:17.694+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:17.693+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:14:17.696+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:14:17.703+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:14:24.786+0700] {processor.py:186} INFO - Started process (PID=3318) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:14:24.788+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:14:24.790+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:24.790+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:14:24.791+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:14:24.799+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2024-12-03T21:15:09.791+0700] {processor.py:186} INFO - Started process (PID=3413) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:15:09.792+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:15:09.794+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:09.794+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:15:09.795+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:15:09.802+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2024-12-03T21:15:15.628+0700] {processor.py:186} INFO - Started process (PID=3424) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:15:15.629+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:15:15.630+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:15.630+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:15:15.632+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:15:15.639+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2024-12-03T21:16:01.437+0700] {processor.py:186} INFO - Started process (PID=3527) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:01.439+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:16:01.441+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:01.441+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:01.443+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:01.452+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2024-12-03T21:16:06.221+0700] {processor.py:186} INFO - Started process (PID=3537) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:06.224+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:16:06.229+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:06.228+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:06.234+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:06.261+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2024-12-03T21:16:54.459+0700] {processor.py:186} INFO - Started process (PID=3659) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:54.460+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:16:54.462+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:54.461+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:54.463+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:54.470+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2024-12-03T21:16:56.652+0700] {processor.py:186} INFO - Started process (PID=3667) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:56.654+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:16:56.656+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:56.655+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:56.657+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:16:56.665+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:17:47.879+0700] {processor.py:186} INFO - Started process (PID=3783) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:17:47.883+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:17:47.884+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:47.884+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:17:47.886+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:17:47.892+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:17:48.431+0700] {processor.py:186} INFO - Started process (PID=3784) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:17:48.431+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:17:48.433+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:48.433+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:17:48.435+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:17:48.442+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2024-12-03T21:18:43.558+0700] {processor.py:186} INFO - Started process (PID=3919) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:18:43.560+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:18:43.562+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:43.562+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:18:43.565+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:18:43.574+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2024-12-03T21:19:44.174+0700] {processor.py:186} INFO - Started process (PID=3985) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:19:44.176+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:19:44.180+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:44.179+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:19:44.182+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:19:44.196+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-12-03T21:20:47.378+0700] {processor.py:186} INFO - Started process (PID=4088) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:20:47.379+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:20:47.381+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:47.380+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:20:47.382+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:20:47.391+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:21:22.830+0700] {processor.py:186} INFO - Started process (PID=4126) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:21:22.831+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:21:22.833+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:22.833+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:21:22.835+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:21:22.842+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2024-12-03T21:22:18.240+0700] {processor.py:186} INFO - Started process (PID=4222) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:22:18.241+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:22:18.243+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:18.242+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:22:18.244+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:22:18.253+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2024-12-03T21:23:08.859+0700] {processor.py:186} INFO - Started process (PID=4276) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:23:08.861+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:23:08.863+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:08.863+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:23:08.866+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:23:08.877+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2024-12-03T21:24:03.346+0700] {processor.py:186} INFO - Started process (PID=4342) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:24:03.349+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:24:03.351+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:03.351+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:24:03.353+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:24:03.361+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2024-12-03T21:24:55.494+0700] {processor.py:186} INFO - Started process (PID=4409) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:24:55.496+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:24:55.498+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:55.497+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:24:55.500+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:24:55.507+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:25:53.732+0700] {processor.py:186} INFO - Started process (PID=4492) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:25:53.734+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:25:53.736+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:53.735+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:25:53.738+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:25:53.746+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2024-12-03T21:26:25.720+0700] {processor.py:186} INFO - Started process (PID=4527) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:26:25.724+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:26:25.726+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:25.725+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:26:25.728+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:26:25.736+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2024-12-03T21:27:16.128+0700] {processor.py:186} INFO - Started process (PID=4585) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:27:16.131+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:27:16.133+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:16.133+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:27:16.135+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:27:16.143+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2024-12-03T21:28:11.518+0700] {processor.py:186} INFO - Started process (PID=4657) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:28:11.519+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:28:11.521+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:11.521+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:28:11.523+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:28:11.530+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2024-12-03T21:29:06.074+0700] {processor.py:186} INFO - Started process (PID=4793) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:29:06.075+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:29:06.077+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:06.077+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:29:06.079+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:29:06.086+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2024-12-03T21:29:58.051+0700] {processor.py:186} INFO - Started process (PID=4848) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:29:58.054+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:29:58.056+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:58.055+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:29:58.058+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:29:58.066+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2024-12-03T21:30:53.863+0700] {processor.py:186} INFO - Started process (PID=4918) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:30:53.865+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-03T21:30:53.866+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:53.866+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:30:53.868+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-03T21:30:53.876+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds

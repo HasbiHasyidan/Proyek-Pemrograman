@@ -1,0 +1,357 @@
+[2024-12-03T20:46:53.950+0700] {processor.py:186} INFO - Started process (PID=1210) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:46:53.951+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T20:46:53.952+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:46:53.952+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:46:53.958+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:46:53.963+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:46:53.963+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:46:53.977+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:46:53.977+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T20:46:53.995+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2024-12-03T20:57:30.157+0700] {processor.py:186} INFO - Started process (PID=1625) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:57:30.162+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T20:57:30.164+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:57:30.163+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:57:30.171+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:57:30.257+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:57:30.257+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:57:30.271+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:57:30.271+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T20:57:30.292+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2024-12-03T20:58:28.421+0700] {processor.py:186} INFO - Started process (PID=1682) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:58:28.422+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T20:58:28.423+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:28.423+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:58:28.431+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:58:28.444+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:28.443+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:58:28.457+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:58:28.457+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T20:58:28.473+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2024-12-03T20:59:21.382+0700] {processor.py:186} INFO - Started process (PID=1737) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:59:21.383+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T20:59:21.385+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:21.384+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:59:21.392+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T20:59:21.404+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:21.404+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T20:59:21.418+0700] {logging_mixin.py:190} INFO - [2024-12-03T20:59:21.418+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T20:59:21.435+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2024-12-03T21:00:10.909+0700] {processor.py:186} INFO - Started process (PID=1787) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:00:10.913+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:00:10.914+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:10.914+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:00:10.920+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:00:10.932+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:10.932+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:00:10.946+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:00:10.946+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:00:10.963+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2024-12-03T21:01:02.929+0700] {processor.py:186} INFO - Started process (PID=1841) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:01:02.931+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:01:02.934+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:01:02.933+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:01:02.945+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:01:02.962+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:01:02.961+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:01:02.987+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:01:02.987+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:01:03.008+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2024-12-03T21:04:59.657+0700] {processor.py:186} INFO - Started process (PID=2001) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:04:59.661+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:04:59.663+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:04:59.663+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:04:59.668+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:04:59.683+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:04:59.683+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:04:59.697+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:04:59.696+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:04:59.714+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2024-12-03T21:05:53.473+0700] {processor.py:186} INFO - Started process (PID=2137) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:05:53.474+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:05:53.476+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:53.475+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:05:53.482+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:05:53.494+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:53.494+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:05:53.508+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:53.508+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:05:53.524+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2024-12-03T21:05:54.440+0700] {processor.py:186} INFO - Started process (PID=2138) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:05:54.441+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:05:54.443+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:54.443+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:05:54.451+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:05:54.470+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:54.469+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:05:54.485+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:05:54.485+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:05:54.504+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2024-12-03T21:06:46.214+0700] {processor.py:186} INFO - Started process (PID=2245) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:06:46.215+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:06:46.217+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:46.217+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:06:46.223+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:06:46.234+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:46.233+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:46.247+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:46.247+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:06:46.263+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2024-12-03T21:06:49.851+0700] {processor.py:186} INFO - Started process (PID=2253) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:06:49.854+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:06:49.856+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:49.856+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:06:49.862+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:06:49.873+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:49.873+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:06:49.887+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:06:49.886+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:06:49.906+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2024-12-03T21:07:38.283+0700] {processor.py:186} INFO - Started process (PID=2447) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:07:38.287+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:07:38.288+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:38.288+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:07:38.296+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:07:38.309+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:38.308+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:38.326+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:38.325+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:07:38.344+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2024-12-03T21:07:40.718+0700] {processor.py:186} INFO - Started process (PID=2452) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:07:40.719+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:07:40.721+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:40.720+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:07:40.728+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:07:40.741+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:40.741+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:07:40.759+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:07:40.759+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:07:40.778+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2024-12-03T21:08:29.160+0700] {processor.py:186} INFO - Started process (PID=2552) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:08:29.170+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:08:29.172+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:29.172+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:08:29.179+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:08:29.190+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:29.190+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:29.203+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:29.203+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:08:29.224+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2024-12-03T21:08:30.263+0700] {processor.py:186} INFO - Started process (PID=2555) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:08:30.264+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:08:30.265+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:30.265+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:08:30.272+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:08:30.283+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:30.283+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:08:30.297+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:08:30.297+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:08:30.314+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2024-12-03T21:09:20.796+0700] {processor.py:186} INFO - Started process (PID=2658) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:09:20.798+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:09:20.799+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:20.799+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:09:20.806+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:09:20.817+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:20.817+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:20.832+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:20.832+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:09:20.849+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2024-12-03T21:09:23.256+0700] {processor.py:186} INFO - Started process (PID=2664) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:09:23.257+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:09:23.259+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:23.259+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:09:23.265+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:09:23.276+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:23.276+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:09:23.289+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:09:23.289+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:09:23.309+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2024-12-03T21:10:12.385+0700] {processor.py:186} INFO - Started process (PID=2765) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:10:12.389+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:10:12.390+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:12.390+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:10:12.396+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:10:12.407+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:12.407+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:12.421+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:12.421+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:10:12.438+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2024-12-03T21:10:12.621+0700] {processor.py:186} INFO - Started process (PID=2766) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:10:12.622+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:10:12.623+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:12.623+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:10:12.629+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:10:12.641+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:12.641+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:10:12.655+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:10:12.655+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:10:12.671+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2024-12-03T21:11:03.401+0700] {processor.py:186} INFO - Started process (PID=2869) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:03.404+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:11:03.406+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:03.406+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:03.413+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:03.424+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:03.423+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:03.437+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:03.437+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:11:03.455+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2024-12-03T21:11:05.028+0700] {processor.py:186} INFO - Started process (PID=2872) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:05.029+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:11:05.030+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:05.030+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:05.036+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:05.051+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:05.050+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:05.084+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:05.084+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:11:05.115+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2024-12-03T21:11:57.619+0700] {processor.py:186} INFO - Started process (PID=2986) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:57.622+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:11:57.624+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:57.623+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:57.630+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:57.641+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:57.641+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:57.654+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:57.654+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:11:57.670+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2024-12-03T21:11:58.846+0700] {processor.py:186} INFO - Started process (PID=2989) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:58.847+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:11:58.848+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:58.848+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:58.854+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:11:58.865+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:58.865+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:11:58.878+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:11:58.878+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:11:58.895+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2024-12-03T21:12:46.628+0700] {processor.py:186} INFO - Started process (PID=3109) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:12:46.632+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:12:46.633+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:46.633+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:12:46.643+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:12:46.659+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:46.659+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:46.676+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:46.676+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:12:46.693+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2024-12-03T21:12:53.001+0700] {processor.py:186} INFO - Started process (PID=3130) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:12:53.002+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:12:53.004+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:53.003+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:12:53.011+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:12:53.024+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:53.024+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:12:53.040+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:12:53.040+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:12:53.059+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2024-12-03T21:13:38.144+0700] {processor.py:186} INFO - Started process (PID=3220) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:13:38.146+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:13:38.148+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:38.148+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:13:38.155+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:13:38.168+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:38.168+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:38.183+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:38.183+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:13:38.203+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2024-12-03T21:13:45.649+0700] {processor.py:186} INFO - Started process (PID=3237) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:13:45.650+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:13:45.651+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:45.651+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:13:45.658+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:13:45.670+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:45.670+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:13:45.686+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:13:45.685+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:13:45.704+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2024-12-03T21:14:28.554+0700] {processor.py:186} INFO - Started process (PID=3325) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:14:28.557+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:14:28.559+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:28.559+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:14:28.565+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:14:28.577+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:28.577+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:28.590+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:28.590+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:14:28.608+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2024-12-03T21:14:36.212+0700] {processor.py:186} INFO - Started process (PID=3341) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:14:36.213+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:14:36.214+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:36.214+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:14:36.220+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:14:36.232+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:36.231+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:14:36.245+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:14:36.245+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:14:36.262+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2024-12-03T21:15:20.836+0700] {processor.py:186} INFO - Started process (PID=3435) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:15:20.838+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:15:20.840+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:20.840+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:15:20.852+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:15:20.875+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:20.874+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:20.904+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:20.903+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:15:20.932+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.102 seconds
+[2024-12-03T21:15:26.860+0700] {processor.py:186} INFO - Started process (PID=3446) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:15:26.862+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:15:26.864+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:26.864+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:15:26.873+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:15:26.888+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:26.888+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:15:26.910+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:15:26.910+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:15:26.933+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2024-12-03T21:16:12.121+0700] {processor.py:186} INFO - Started process (PID=3548) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:16:12.124+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:16:12.126+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:12.126+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:16:12.132+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:16:12.143+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:12.143+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:12.157+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:12.157+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:16:12.177+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2024-12-03T21:16:17.583+0700] {processor.py:186} INFO - Started process (PID=3559) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:16:17.583+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:16:17.585+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:17.584+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:16:17.594+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:16:17.608+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:17.607+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:16:17.623+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:16:17.622+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:16:17.643+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2024-12-03T21:17:05.376+0700] {processor.py:186} INFO - Started process (PID=3685) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:05.380+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:17:05.381+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:05.381+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:05.388+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:05.399+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:05.398+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:05.412+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:05.412+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:17:05.429+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2024-12-03T21:17:07.763+0700] {processor.py:186} INFO - Started process (PID=3690) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:07.764+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:17:07.766+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:07.766+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:07.772+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:07.784+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:07.784+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:07.799+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:07.799+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:17:07.822+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2024-12-03T21:17:58.269+0700] {processor.py:186} INFO - Started process (PID=3809) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:58.271+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:17:58.272+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:58.272+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:58.278+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:58.290+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:58.290+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:58.303+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:58.303+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:17:58.321+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2024-12-03T21:17:59.860+0700] {processor.py:186} INFO - Started process (PID=3812) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:59.861+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:17:59.863+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:59.863+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:59.871+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:17:59.887+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:59.886+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:17:59.908+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:17:59.907+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:17:59.932+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-12-03T21:18:56.853+0700] {processor.py:186} INFO - Started process (PID=3934) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:18:56.854+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:18:56.859+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:56.859+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:18:56.865+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:18:56.973+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:56.973+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:18:57.001+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:18:57.000+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:18:57.020+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.171 seconds
+[2024-12-03T21:19:55.544+0700] {processor.py:186} INFO - Started process (PID=3996) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:19:55.548+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:19:55.549+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:55.549+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:19:55.557+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:19:55.568+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:55.568+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:19:55.581+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:19:55.581+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:19:55.598+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2024-12-03T21:20:57.535+0700] {processor.py:186} INFO - Started process (PID=4099) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:20:57.537+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:20:57.539+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:57.538+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:20:57.546+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:20:57.562+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:57.562+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:20:57.579+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:20:57.579+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:20:57.598+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2024-12-03T21:21:53.748+0700] {processor.py:186} INFO - Started process (PID=4162) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:21:53.749+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:21:53.750+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:53.750+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:21:53.757+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:21:53.769+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:53.769+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:21:53.784+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:21:53.784+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:21:53.802+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2024-12-03T21:22:48.279+0700] {processor.py:186} INFO - Started process (PID=4255) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:22:48.283+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:22:48.285+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:48.284+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:22:48.291+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:22:48.303+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:48.302+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:22:48.317+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:22:48.317+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:22:48.335+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2024-12-03T21:23:39.568+0700] {processor.py:186} INFO - Started process (PID=4307) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:23:39.572+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:23:39.574+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:39.574+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:23:39.581+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:23:39.593+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:39.593+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:23:39.607+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:23:39.607+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:23:39.625+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2024-12-03T21:24:35.214+0700] {processor.py:186} INFO - Started process (PID=4386) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:24:35.215+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:24:35.217+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:35.216+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:24:35.224+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:24:35.235+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:35.235+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:24:35.250+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:24:35.250+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:24:35.267+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2024-12-03T21:25:30.742+0700] {processor.py:186} INFO - Started process (PID=4469) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:25:30.744+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:25:30.746+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:30.746+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:25:30.754+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:25:30.768+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:30.768+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:25:30.785+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:25:30.785+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:25:30.805+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2024-12-03T21:26:28.587+0700] {processor.py:186} INFO - Started process (PID=4530) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:26:28.590+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:26:28.592+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:28.592+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:26:28.598+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:26:28.610+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:28.610+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:26:28.629+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:26:28.629+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:26:28.650+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2024-12-03T21:27:19.625+0700] {processor.py:186} INFO - Started process (PID=4593) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:27:19.628+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:27:19.631+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:19.630+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:27:19.637+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:27:19.649+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:19.648+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:27:19.663+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:27:19.663+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:27:19.683+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2024-12-03T21:28:14.299+0700] {processor.py:186} INFO - Started process (PID=4660) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:28:14.301+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:28:14.304+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:14.303+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:28:14.317+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:28:14.337+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:14.337+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:28:14.369+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:28:14.369+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:28:14.401+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2024-12-03T21:29:08.323+0700] {processor.py:186} INFO - Started process (PID=4796) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:29:08.327+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:29:08.329+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:08.329+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:29:08.336+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:29:08.349+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:08.349+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:29:08.364+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:29:08.363+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:29:08.381+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2024-12-03T21:30:01.030+0700] {processor.py:186} INFO - Started process (PID=4851) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:30:01.031+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:30:01.033+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:01.033+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:30:01.041+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:30:01.056+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:01.056+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:30:01.075+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:01.075+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:30:01.103+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2024-12-03T21:30:56.475+0700] {processor.py:186} INFO - Started process (PID=4921) to work on /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:30:56.478+0700] {processor.py:914} INFO - Processing file /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-03T21:30:56.480+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:56.480+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:30:56.486+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-03T21:30:56.497+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:56.496+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-03T21:30:56.510+0700] {logging_mixin.py:190} INFO - [2024-12-03T21:30:56.510+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-12-02 00:00:00+00:00, run_after=2024-12-03 00:00:00+00:00
+[2024-12-03T21:30:56.527+0700] {processor.py:208} INFO - Processing /home/tedubuamo/project/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
